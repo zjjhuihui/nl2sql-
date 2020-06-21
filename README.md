@@ -15,3 +15,6 @@ real类型的cond_val从question中获取。
 冠军参考资料：
 https://tianchi.aliyun.com/competition/entrance/231716/introduction
 https://github.com/salesforce/WikiSQL
+
+
+#算法学习相关网址：https://github.com/TheAlgorithms
